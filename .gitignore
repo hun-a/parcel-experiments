@@ -63,3 +63,4 @@ typings/
 .cache
 dist
 yarn.lock
+build
